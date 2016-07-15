@@ -7,6 +7,7 @@ public class Application {
 
 		Nishiyan hage = new Nishiyan();
 		hage.setFusafusa();
+		hage.setHage();
 	}
 
 	public static void main(String[] args) {
