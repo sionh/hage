@@ -12,6 +12,7 @@ public class Nishiyan {
 
 	public void setHage() {
 		hairs.clear();
+		System.out.println("mou ke nai...");
 	}
 
 	public void setFusafusa() {
