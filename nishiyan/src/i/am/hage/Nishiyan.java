@@ -17,7 +17,7 @@ public class Nishiyan {
 
 	public void setFusafusa() {
 		for (int i = 0; i < 100; i++) {
-			hairs.add(new Hair());
+			hairs.add(new HairNegaNega());
 		}
 	}
 }
