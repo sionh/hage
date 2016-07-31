@@ -5,7 +5,7 @@ public class Application {
 	public void run() {
 		System.out.println("i am hage");
 
-		Nishiyan hage = new Nishiyan();
+		Nishiyan hage = new NishiyanAge();
 		hage.setFusafusa();
 		hage.setHage();
 	}
